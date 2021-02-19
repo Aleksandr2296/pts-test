@@ -1,5 +1,4 @@
 import '../style/app.scss';
-// import './app';
 
 const ApiUrl = 'http://localhost:3000/person';
 
